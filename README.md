@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">A passionate software engineering student with a lot of motivation and a desire to learn</h1>
+<h1 align="left">I'am a passionate software engineering student with a lot of motivation and a desire to learn</h1>
 
 ###
 
