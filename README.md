@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Samuel Porras Osorio</p>
+<h3 align="left">My name is Samuel Porras Osorio</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
